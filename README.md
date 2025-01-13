@@ -12,7 +12,7 @@ This is a simple and fun Flappy Bird game created using the Unity game engine. F
 2. Double-click the downloaded file to launch the game.
 3. Start playing and have fun!
 
-### [Download Flappy Bird for Windows](./Flappy Bird.exe)
+### [Download Flappy Bird for Windows](./Flappy%20Bird.exe)
 
 ## Controls
 - **Spacebar**: Flap your wings
